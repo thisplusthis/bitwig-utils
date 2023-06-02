@@ -3,5 +3,5 @@
 [bitwig.com](https://bitwig.com)
 
 
-![](https://github.com/thisplusthis/bitwig-utils/johnny.gif)
+![](https://github.com/thisplusthis/bitwig-utils/blob/main/johnny.gif)
 
