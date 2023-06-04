@@ -1,4 +1,4 @@
-### Useful Bitwig Ideas / Utilities
+### Bitwig Ideas / Utilities
 
 [bitwig.com](https://bitwig.com)
 
